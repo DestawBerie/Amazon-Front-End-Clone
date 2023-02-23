@@ -68,10 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # Amazone-Clone-Front-end
+
 # Amazon-Front-End-Clone
+
 # Amazon-Front-End-Clone
+
 # Amazon-Front-End-Clone
+
 # Amazon-Front-End-Clone
+
 # Amazon-Front-End-Clone
+
 # Amazon-Front-End-Clone
+
+#the link of the firebase final one is shown below
+https://clone-7943a.web.app
